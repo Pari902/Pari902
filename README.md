@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parami Anuththara</h1>
-<h3 align="center">Undergraduate at University of Moratuwa | Faculty of IT</h3>
 
+- 🌱 I’m currently learning **Java**
 - 📫 How to reach me **paramianuththara64@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
